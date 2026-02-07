@@ -1,0 +1,37 @@
+/* Article source inspiration: University of Arizona College of Pharmacy */
+
+/* Images */
+img {
+  width: 300px;
+}
+
+/* Main heading */
+h1 {
+  padding: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  color: white;
+  background-color: red;
+}
+
+/* Author and date */
+#author-name-and-date {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: gray;
+}
+
+/* Article text */
+p,
+ol {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  color: DarkSlateGray;
+}
+
+/* Share links */
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: blue;
+}
